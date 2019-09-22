@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D920F9B-5E6A-4207-919F-7E89E77BB7D9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication2.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication2</RootNamespace>
+    <AssemblyName>WindowsApplication2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApplication2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApplication2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about us.Designer.vb">
+      <DependentUpon>about us.vb</DependentUpon>
+    </Compile>
+    <Compile Include="about us.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BBA.Designer.vb">
+      <DependentUpon>BBA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BBA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCA.Designer.vb">
+      <DependentUpon>BCA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BCA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOTONY.Designer.vb">
+      <DependentUpon>BOTONY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BOTONY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CHEMISTRY.Designer.vb">
+      <DependentUpon>CHEMISTRY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CHEMISTRY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="collegeDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>collegeDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="commerce.Designer.vb">
+      <DependentUpon>commerce.vb</DependentUpon>
+    </Compile>
+    <Compile Include="commerce.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="compscience.Designer.vb">
+      <DependentUpon>compscience.vb</DependentUpon>
+    </Compile>
+    <Compile Include="compscience.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="contact.Designer.vb">
+      <DependentUpon>contact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="contact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONTACTUS.Designer.vb">
+      <DependentUpon>CONTACTUS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CONTACTUS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="economics.Designer.vb">
+      <DependentUpon>economics.vb</DependentUpon>
+    </Compile>
+    <Compile Include="economics.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ENGLISH.Designer.vb">
+      <DependentUpon>ENGLISH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ENGLISH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="faculity.Designer.vb">
+      <DependentUpon>faculity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="faculity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.vb">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.vb">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEOGRAPHY.Designer.vb">
+      <DependentUpon>GEOGRAPHY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GEOGRAPHY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hindi.Designer.vb">
+      <DependentUpon>hindi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hindi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="history.Designer.vb">
+      <DependentUpon>history.vb</DependentUpon>
+    </Compile>
+    <Compile Include="history.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ignou.Designer.vb">
+      <DependentUpon>ignou.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ignou.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="maths.Designer.vb">
+      <DependentUpon>maths.vb</DependentUpon>
+    </Compile>
+    <Compile Include="maths.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MUSIC.Designer.vb">
+      <DependentUpon>MUSIC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MUSIC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="phyeducation.Designer.vb">
+      <DependentUpon>phyeducation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="phyeducation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PHYSICS.Designer.vb">
+      <DependentUpon>PHYSICS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PHYSICS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="polscience.Designer.vb">
+      <DependentUpon>polscience.vb</DependentUpon>
+    </Compile>
+    <Compile Include="polscience.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PUBADMIN.Designer.vb">
+      <DependentUpon>PUBADMIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PUBADMIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SOCIOLOGY.Designer.vb">
+      <DependentUpon>SOCIOLOGY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SOCIOLOGY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentfee.Designer.vb">
+      <DependentUpon>studentfee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="studentfee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student_information_form.Designer.vb">
+      <DependentUpon>student_information_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="student_information_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher New Entry.Designer.vb">
+      <DependentUpon>Teacher New Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher New Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacherinfo.Designer.vb">
+      <DependentUpon>teacherinfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="teacherinfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachersalary.Designer.vb">
+      <DependentUpon>teachersalary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="teachersalary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wecome form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wecome form.Designer.vb">
+      <DependentUpon>wecome form.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdi form.Designer.vb">
+      <DependentUpon>mdi form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mdi form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="student admission form.Designer.vb">
+      <DependentUpon>student admission form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="student admission form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zoology.Designer.vb">
+      <DependentUpon>zoology.vb</DependentUpon>
+    </Compile>
+    <Compile Include="zoology.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="about us.resx">
+      <DependentUpon>about us.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BBA.resx">
+      <DependentUpon>BBA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCA.resx">
+      <DependentUpon>BCA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOTONY.resx">
+      <DependentUpon>BOTONY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CHEMISTRY.resx">
+      <DependentUpon>CHEMISTRY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="commerce.resx">
+      <DependentUpon>commerce.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="compscience.resx">
+      <DependentUpon>compscience.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="contact.resx">
+      <DependentUpon>contact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONTACTUS.resx">
+      <DependentUpon>CONTACTUS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="economics.resx">
+      <DependentUpon>economics.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ENGLISH.resx">
+      <DependentUpon>ENGLISH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="faculity.resx">
+      <DependentUpon>faculity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEOGRAPHY.resx">
+      <DependentUpon>GEOGRAPHY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hindi.resx">
+      <DependentUpon>hindi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="history.resx">
+      <DependentUpon>history.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ignou.resx">
+      <DependentUpon>ignou.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="maths.resx">
+      <DependentUpon>maths.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MUSIC.resx">
+      <DependentUpon>MUSIC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="phyeducation.resx">
+      <DependentUpon>phyeducation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PHYSICS.resx">
+      <DependentUpon>PHYSICS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="polscience.resx">
+      <DependentUpon>polscience.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PUBADMIN.resx">
+      <DependentUpon>PUBADMIN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SOCIOLOGY.resx">
+      <DependentUpon>SOCIOLOGY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentfee.resx">
+      <DependentUpon>studentfee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student_information_form.resx">
+      <DependentUpon>student_information_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher New Entry.resx">
+      <DependentUpon>Teacher New Entry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teacherinfo.resx">
+      <DependentUpon>teacherinfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachersalary.resx">
+      <DependentUpon>teachersalary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wecome form.resx">
+      <DependentUpon>wecome form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mdi form.resx">
+      <DependentUpon>mdi form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student admission form.resx">
+      <DependentUpon>student admission form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zoology.resx">
+      <DependentUpon>zoology.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="collegeDataSet.xsc">
+      <DependentUpon>collegeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="collegeDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>collegeDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="collegeDataSet.xss">
+      <DependentUpon>collegeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\ADODB.ADOCommandConstruction.datasource" />
+    <None Include="My Project\DataSources\ADODB.ADOConnectionConstruction.datasource" />
+    <None Include="My Project\DataSources\ADODB.ADOConnectionConstruction15.datasource" />
+    <None Include="My Project\DataSources\ADODB.ADORecordConstruction.datasource" />
+    <None Include="My Project\DataSources\ADODB.ADORecordsetConstruction.datasource" />
+    <None Include="My Project\DataSources\ADODB.ADOStreamConstruction.datasource" />
+    <None Include="My Project\DataSources\ADODB.Command.datasource" />
+    <None Include="My Project\DataSources\ADODB.Command15.datasource" />
+    <None Include="My Project\DataSources\ADODB.Command25.datasource" />
+    <None Include="My Project\DataSources\ADODB.CommandClass.datasource" />
+    <None Include="My Project\DataSources\ADODB.Connection.datasource" />
+    <None Include="My Project\DataSources\ADODB.Connection15.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionClass.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEvents.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEventsVt.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEvents_BeginTransCompleteEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEvents_CommitTransCompleteEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEvents_ConnectCompleteEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEvents_DisconnectEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEvents_Event.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEvents_ExecuteCompleteEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEvents_InfoMessageEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEvents_RollbackTransCompleteEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEvents_SinkHelper.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEvents_WillConnectEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.ConnectionEvents_WillExecuteEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.Error.datasource" />
+    <None Include="My Project\DataSources\ADODB.Errors.datasource" />
+    <None Include="My Project\DataSources\ADODB.Field.datasource" />
+    <None Include="My Project\DataSources\ADODB.Field15.datasource" />
+    <None Include="My Project\DataSources\ADODB.Field20.datasource" />
+    <None Include="My Project\DataSources\ADODB.Fields.datasource" />
+    <None Include="My Project\DataSources\ADODB.Fields15.datasource" />
+    <None Include="My Project\DataSources\ADODB.Fields20.datasource" />
+    <None Include="My Project\DataSources\ADODB.InternalError.datasource" />
+    <None Include="My Project\DataSources\ADODB.InternalErrors.datasource" />
+    <None Include="My Project\DataSources\ADODB.InternalField.datasource" />
+    <None Include="My Project\DataSources\ADODB.InternalFields.datasource" />
+    <None Include="My Project\DataSources\ADODB.InternalParameter.datasource" />
+    <None Include="My Project\DataSources\ADODB.InternalParameters.datasource" />
+    <None Include="My Project\DataSources\ADODB.InternalProperties.datasource" />
+    <None Include="My Project\DataSources\ADODB.InternalProperty.datasource" />
+    <None Include="My Project\DataSources\ADODB.Parameter.datasource" />
+    <None Include="My Project\DataSources\ADODB.ParameterClass.datasource" />
+    <None Include="My Project\DataSources\ADODB.Parameters.datasource" />
+    <None Include="My Project\DataSources\ADODB.Properties.datasource" />
+    <None Include="My Project\DataSources\ADODB.Property.datasource" />
+    <None Include="My Project\DataSources\ADODB.Record.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordClass.datasource" />
+    <None Include="My Project\DataSources\ADODB.Recordset.datasource" />
+    <None Include="My Project\DataSources\ADODB.Recordset15.datasource" />
+    <None Include="My Project\DataSources\ADODB.Recordset20.datasource" />
+    <None Include="My Project\DataSources\ADODB.Recordset21.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetClass.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEventsVt.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_EndOfRecordsetEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_Event.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_FetchCompleteEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_FetchProgressEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_FieldChangeCompleteEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_MoveCompleteEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_RecordChangeCompleteEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_RecordsetChangeCompleteEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_SinkHelper.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_WillChangeFieldEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_WillChangeRecordEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_WillChangeRecordsetEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.RecordsetEvents_WillMoveEventHandler.datasource" />
+    <None Include="My Project\DataSources\ADODB.Stream.datasource" />
+    <None Include="My Project\DataSources\ADODB.StreamClass.datasource" />
+    <None Include="My Project\DataSources\ADODB._ADO.datasource" />
+    <None Include="My Project\DataSources\ADODB._Collection.datasource" />
+    <None Include="My Project\DataSources\ADODB._Command.datasource" />
+    <None Include="My Project\DataSources\ADODB._Connection.datasource" />
+    <None Include="My Project\DataSources\ADODB._DynaCollection.datasource" />
+    <None Include="My Project\DataSources\ADODB._Parameter.datasource" />
+    <None Include="My Project\DataSources\ADODB._Record.datasource" />
+    <None Include="My Project\DataSources\ADODB._Recordset.datasource" />
+    <None Include="My Project\DataSources\ADODB._Stream.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="college.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

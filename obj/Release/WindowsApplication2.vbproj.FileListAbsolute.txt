@@ -1,0 +1,9 @@
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.exe.config
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.New_Professor_Entry.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.student_information_form.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Form1.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.login.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Form3.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.student_admission_form.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache

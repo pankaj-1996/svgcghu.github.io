@@ -1,0 +1,135 @@
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.New_Professor_Entry.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.student_information_form.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form3.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.student_admission_form.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2.exe.config
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form4.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form5.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.contact.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.faculity.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.studentfee.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.teacherinfo.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.teachersalary.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.BBA.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.BCA.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.BOTONY.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.CHEMISTRY.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.commerce.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.compscience.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.economics.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.ENGLISH.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.GEOGRAPHY.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.hindi.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.history.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.maths.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.MUSIC.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.phyeducation.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.PHYSICS.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.polscience.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.PUBADMIN.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.SOCIOLOGY.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.zoology.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.about_us.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.ignou.resources
+C:\Users\As\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\college.accdb
+I:\collegeproject\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+I:\collegeproject\WindowsApplication2\WindowsApplication2\bin\Debug\college.accdb
+I:\collegeproject\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+I:\collegeproject\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+I:\collegeproject\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.about_us.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.BBA.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.BCA.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.BOTONY.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.CHEMISTRY.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.commerce.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.compscience.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.contact.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.economics.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.ENGLISH.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.faculity.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form4.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form5.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.GEOGRAPHY.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.hindi.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.history.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.ignou.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.maths.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.MUSIC.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.phyeducation.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.PHYSICS.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.polscience.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.PUBADMIN.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.SOCIOLOGY.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.student_information_form.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.studentfee.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.teacherinfo.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.teachersalary.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form3.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.student_admission_form.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.zoology.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.CONTACTUS.resources
+I:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Teacher_New_Entry.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+H:\collegeproject\WindowsApplication2\WindowsApplication2\bin\Debug\college.accdb
+H:\collegeproject\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+H:\collegeproject\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+H:\collegeproject\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.about_us.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.BBA.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.BCA.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.BOTONY.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.CHEMISTRY.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.commerce.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.compscience.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.contact.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.CONTACTUS.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.economics.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.ENGLISH.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.faculity.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form4.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form5.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.GEOGRAPHY.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.hindi.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.history.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.ignou.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.maths.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.MUSIC.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.phyeducation.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.PHYSICS.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.polscience.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.PUBADMIN.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.SOCIOLOGY.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.student_information_form.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.studentfee.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Teacher_New_Entry.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.teacherinfo.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.teachersalary.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form3.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.student_admission_form.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.zoology.resources
+H:\collegeproject\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
